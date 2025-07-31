@@ -1,0 +1,398 @@
+{
+    "status": true,
+    "status_code": 200,
+    "result": [
+        {
+            "name": "France",
+            "capital": "Paris",
+            "population": 67390000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/640px-Flag_of_France.svg.png",
+            "description": "France is a country located in the region of Europe. Its capital city is Paris, and it has an estimated population of 67,390,000 people. France is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Japan",
+            "capital": "Tokyo",
+            "population": 125800000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/640px-Flag_of_Japan.svg.png",
+            "description": "Japan is a country located in the region of Asia. Its capital city is Tokyo, and it has an estimated population of 125,800,000 people. Japan is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Brazil",
+            "capital": "Bras\u00edlia",
+            "population": 214300000,
+            "region": "South America",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/640px-Flag_of_Brazil.svg.png",
+            "description": "Brazil is a country located in the region of South America. Its capital city is Bras\u00edlia, and it has an estimated population of 214,300,000 people. Brazil is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Canada",
+            "capital": "Ottawa",
+            "population": 38930000,
+            "region": "North America",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Flag_of_Canada.svg/640px-Flag_of_Canada.svg.png",
+            "description": "Canada is a country located in the region of North America. Its capital city is Ottawa, and it has an estimated population of 38,930,000 people. Canada is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "South Africa",
+            "capital": "Pretoria",
+            "population": 60000000,
+            "region": "Africa",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/640px-Flag_of_South_Africa.svg.png",
+            "description": "South Africa is a country located in the region of Africa. Its capital city is Pretoria, and it has an estimated population of 60,000,000 people. South Africa is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Germany",
+            "capital": "Berlin",
+            "population": 83190000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/640px-Flag_of_Germany.svg.png",
+            "description": "Germany is a country located in the region of Europe. Its capital city is Berlin, and it has an estimated population of 83,190,000 people. Germany is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "India",
+            "capital": "New Delhi",
+            "population": 1410000000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/640px-Flag_of_India.svg.png",
+            "description": "India is a country located in the region of Asia. Its capital city is New Delhi, and it has an estimated population of 1,410,000,000 people. India is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Australia",
+            "capital": "Canberra",
+            "population": 26140000,
+            "region": "Oceania",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Flag_of_Australia.svg/640px-Flag_of_Australia.svg.png",
+            "description": "Australia is a country located in the region of Oceania. Its capital city is Canberra, and it has an estimated population of 26,140,000 people. Australia is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Mexico",
+            "capital": "Mexico City",
+            "population": 126000000,
+            "region": "North America",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/640px-Flag_of_Mexico.svg.png",
+            "description": "Mexico is a country located in the region of North America. Its capital city is Mexico City, and it has an estimated population of 126,000,000 people. Mexico is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "United Kingdom",
+            "capital": "London",
+            "population": 67000000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/640px-Flag_of_the_United_Kingdom.svg.png",
+            "description": "United Kingdom is a country located in the region of Europe. Its capital city is London, and it has an estimated population of 67,000,000 people. United Kingdom is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Italy",
+            "capital": "Rome",
+            "population": 59200000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/640px-Flag_of_Italy.svg.png",
+            "description": "Italy is a country located in the region of Europe. Its capital city is Rome, and it has an estimated population of 59,200,000 people. Italy is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "China",
+            "capital": "Beijing",
+            "population": 1412000000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/640px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+            "description": "China is a country located in the region of Asia. Its capital city is Beijing, and it has an estimated population of 1,412,000,000 people. China is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Russia",
+            "capital": "Moscow",
+            "population": 146000000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/640px-Flag_of_Russia.svg.png",
+            "description": "Russia is a country located in the region of Europe. Its capital city is Moscow, and it has an estimated population of 146,000,000 people. Russia is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "United States",
+            "capital": "Washington, D.C.",
+            "population": 331000000,
+            "region": "North America",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/640px-Flag_of_the_United_States.svg.png",
+            "description": "United States is a country located in the region of North America. Its capital city is Washington, D.C., and it has an estimated population of 331,000,000 people. United States is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Argentina",
+            "capital": "Buenos Aires",
+            "population": 45380000,
+            "region": "South America",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/640px-Flag_of_Argentina.svg.png",
+            "description": "Argentina is a country located in the region of South America. Its capital city is Buenos Aires, and it has an estimated population of 45,380,000 people. Argentina is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "South Korea",
+            "capital": "Seoul",
+            "population": 51780000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png",
+            "description": "South Korea is a country located in the region of Asia. Its capital city is Seoul, and it has an estimated population of 51,780,000 people. South Korea is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Spain",
+            "capital": "Madrid",
+            "population": 47350000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/640px-Flag_of_Spain.svg.png",
+            "description": "Spain is a country located in the region of Europe. Its capital city is Madrid, and it has an estimated population of 47,350,000 people. Spain is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Nigeria",
+            "capital": "Abuja",
+            "population": 223800000,
+            "region": "Africa",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/640px-Flag_of_Nigeria.svg.png",
+            "description": "Nigeria is a country located in the region of Africa. Its capital city is Abuja, and it has an estimated population of 223,800,000 people. Nigeria is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Egypt",
+            "capital": "Cairo",
+            "population": 109300000,
+            "region": "Africa",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/640px-Flag_of_Egypt.svg.png",
+            "description": "Egypt is a country located in the region of Africa. Its capital city is Cairo, and it has an estimated population of 109,300,000 people. Egypt is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Indonesia",
+            "capital": "Jakarta",
+            "population": 276400000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/640px-Flag_of_Indonesia.svg.png",
+            "description": "Indonesia is a country located in the region of Asia. Its capital city is Jakarta, and it has an estimated population of 276,400,000 people. Indonesia is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Turkey",
+            "capital": "Ankara",
+            "population": 85300000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/640px-Flag_of_Turkey.svg.png",
+            "description": "Turkey is a country located in the region of Asia. Its capital city is Ankara, and it has an estimated population of 85,300,000 people. Turkey is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Netherlands",
+            "capital": "Amsterdam",
+            "population": 17480000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/640px-Flag_of_the_Netherlands.svg.png",
+            "description": "Netherlands is a country located in the region of Europe. Its capital city is Amsterdam, and it has an estimated population of 17,480,000 people. Netherlands is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Sweden",
+            "capital": "Stockholm",
+            "population": 10520000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/640px-Flag_of_Sweden.svg.png",
+            "description": "Sweden is a country located in the region of Europe. Its capital city is Stockholm, and it has an estimated population of 10,520,000 people. Sweden is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Norway",
+            "capital": "Oslo",
+            "population": 5466000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/640px-Flag_of_Norway.svg.png",
+            "description": "Norway is a country located in the region of Europe. Its capital city is Oslo, and it has an estimated population of 5,466,000 people. Norway is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Denmark",
+            "capital": "Copenhagen",
+            "population": 5910000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/640px-Flag_of_Denmark.svg.png",
+            "description": "Denmark is a country located in the region of Europe. Its capital city is Copenhagen, and it has an estimated population of 5,910,000 people. Denmark is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Switzerland",
+            "capital": "Bern",
+            "population": 8880000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/640px-Flag_of_Switzerland.svg.png",
+            "description": "Switzerland is a country located in the region of Europe. Its capital city is Bern, and it has an estimated population of 8,880,000 people. Switzerland is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Poland",
+            "capital": "Warsaw",
+            "population": 37750000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/640px-Flag_of_Poland.svg.png",
+            "description": "Poland is a country located in the region of Europe. Its capital city is Warsaw, and it has an estimated population of 37,750,000 people. Poland is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Ukraine",
+            "capital": "Kyiv",
+            "population": 41380000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/640px-Flag_of_Ukraine.svg.png",
+            "description": "Ukraine is a country located in the region of Europe. Its capital city is Kyiv, and it has an estimated population of 41,380,000 people. Ukraine is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Saudi Arabia",
+            "capital": "Riyadh",
+            "population": 35630000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/640px-Flag_of_Saudi_Arabia.svg.png",
+            "description": "Saudi Arabia is a country located in the region of Asia. Its capital city is Riyadh, and it has an estimated population of 35,630,000 people. Saudi Arabia is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Iran",
+            "capital": "Tehran",
+            "population": 88000000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/640px-Flag_of_Iran.svg.png",
+            "description": "Iran is a country located in the region of Asia. Its capital city is Tehran, and it has an estimated population of 88,000,000 people. Iran is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Iraq",
+            "capital": "Baghdad",
+            "population": 44000000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/640px-Flag_of_Iraq.svg.png",
+            "description": "Iraq is a country located in the region of Asia. Its capital city is Baghdad, and it has an estimated population of 44,000,000 people. Iraq is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Thailand",
+            "capital": "Bangkok",
+            "population": 70000000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/640px-Flag_of_Thailand.svg.png",
+            "description": "Thailand is a country located in the region of Asia. Its capital city is Bangkok, and it has an estimated population of 70,000,000 people. Thailand is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Philippines",
+            "capital": "Manila",
+            "population": 113900000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/640px-Flag_of_the_Philippines.svg.png",
+            "description": "Philippines is a country located in the region of Asia. Its capital city is Manila, and it has an estimated population of 113,900,000 people. Philippines is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Vietnam",
+            "capital": "Hanoi",
+            "population": 98100000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/640px-Flag_of_Vietnam.svg.png",
+            "description": "Vietnam is a country located in the region of Asia. Its capital city is Hanoi, and it has an estimated population of 98,100,000 people. Vietnam is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Malaysia",
+            "capital": "Kuala Lumpur",
+            "population": 33200000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/640px-Flag_of_Malaysia.svg.png",
+            "description": "Malaysia is a country located in the region of Asia. Its capital city is Kuala Lumpur, and it has an estimated population of 33,200,000 people. Malaysia is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Singapore",
+            "capital": "Singapore",
+            "population": 5900000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/640px-Flag_of_Singapore.svg.png",
+            "description": "Singapore is a country located in the region of Asia. Its capital city is Singapore, and it has an estimated population of 5,900,000 people. Singapore is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "New Zealand",
+            "capital": "Wellington",
+            "population": 5080000,
+            "region": "Oceania",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/640px-Flag_of_New_Zealand.svg.png",
+            "description": "New Zealand is a country located in the region of Oceania. Its capital city is Wellington, and it has an estimated population of 5,080,000 people. New Zealand is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Portugal",
+            "capital": "Lisbon",
+            "population": 10310000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/640px-Flag_of_Portugal.svg.png",
+            "description": "Portugal is a country located in the region of Europe. Its capital city is Lisbon, and it has an estimated population of 10,310,000 people. Portugal is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Belgium",
+            "capital": "Brussels",
+            "population": 11560000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/640px-Flag_of_Belgium.svg.png",
+            "description": "Belgium is a country located in the region of Europe. Its capital city is Brussels, and it has an estimated population of 11,560,000 people. Belgium is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Austria",
+            "capital": "Vienna",
+            "population": 8900000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/640px-Flag_of_Austria.svg.png",
+            "description": "Austria is a country located in the region of Europe. Its capital city is Vienna, and it has an estimated population of 8,900,000 people. Austria is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Greece",
+            "capital": "Athens",
+            "population": 10720000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/640px-Flag_of_Greece.svg.png",
+            "description": "Greece is a country located in the region of Europe. Its capital city is Athens, and it has an estimated population of 10,720,000 people. Greece is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Czech Republic",
+            "capital": "Prague",
+            "population": 10730000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/640px-Flag_of_the_Czech_Republic.svg.png",
+            "description": "Czech Republic is a country located in the region of Europe. Its capital city is Prague, and it has an estimated population of 10,730,000 people. Czech Republic is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Hungary",
+            "capital": "Budapest",
+            "population": 9700000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/640px-Flag_of_Hungary.svg.png",
+            "description": "Hungary is a country located in the region of Europe. Its capital city is Budapest, and it has an estimated population of 9,700,000 people. Hungary is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Romania",
+            "capital": "Bucharest",
+            "population": 19100000,
+            "region": "Europe",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/640px-Flag_of_Romania.svg.png",
+            "description": "Romania is a country located in the region of Europe. Its capital city is Bucharest, and it has an estimated population of 19,100,000 people. Romania is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Israel",
+            "capital": "Jerusalem",
+            "population": 9600000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/640px-Flag_of_Israel.svg.png",
+            "description": "Israel is a country located in the region of Asia. Its capital city is Jerusalem, and it has an estimated population of 9,600,000 people. Israel is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Pakistan",
+            "capital": "Islamabad",
+            "population": 240500000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/640px-Flag_of_Pakistan.svg.png",
+            "description": "Pakistan is a country located in the region of Asia. Its capital city is Islamabad, and it has an estimated population of 240,500,000 people. Pakistan is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Bangladesh",
+            "capital": "Dhaka",
+            "population": 172000000,
+            "region": "Asia",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/640px-Flag_of_Bangladesh.svg.png",
+            "description": "Bangladesh is a country located in the region of Asia. Its capital city is Dhaka, and it has an estimated population of 172,000,000 people. Bangladesh is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Kenya",
+            "capital": "Nairobi",
+            "population": 54000000,
+            "region": "Africa",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/640px-Flag_of_Kenya.svg.png",
+            "description": "Kenya is a country located in the region of Africa. Its capital city is Nairobi, and it has an estimated population of 54,000,000 people. Kenya is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        },
+        {
+            "name": "Morocco",
+            "capital": "Rabat",
+            "population": 37400000,
+            "region": "Africa",
+            "flag_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/640px-Flag_of_Morocco.svg.png",
+            "description": "Morocco is a country located in the region of Africa. Its capital city is Rabat, and it has an estimated population of 37,400,000 people. Morocco is known for its rich history, diverse culture, and significant contributions to global heritage. It offers a wide range of landscapes, from urban centers to natural wonders, and plays an important role in regional and international affairs."
+        }
+    ]
+}
